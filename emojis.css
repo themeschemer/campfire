@@ -6,5 +6,6 @@
 
 /* :slight_smile: */
 img[aria-label="🙂"] {
-	background: url("https://themeschemer.github.io/campfire/emojis/slight_smile.png");
+	background: transparent!important;
+	content: url("https://themeschemer.github.io/campfire/emojis/slight_smile.png")!important;
 )
